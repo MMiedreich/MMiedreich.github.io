@@ -4,7 +4,8 @@
 
  * must be dirty
  * he can be a bad guy
- * should incloud weapons
+ * should inclued weapons
  * should include a partner to create the funny scenes
 
-This website is dedicated to Braue Willis and his fun facts.
+ His most famous quote:
+ > Yippee-ki-yay.
